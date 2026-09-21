@@ -6,11 +6,11 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
+8 completed problems.
+
 ## Topics
 
 ### Arrays & Hashing
-
-7 completed problems.
 
 | # | Problem | Main Technique | Time |
 |---|---|---|---|
@@ -24,14 +24,21 @@ Detailed study notes, explanations, mistakes, and review logs are maintained sep
 
 Here, n is the input length (or number of strings for Group Anagrams), m is the maximum string length, and u is the number of distinct integers. Hash-based bounds are average-case. Top K Frequent Elements is O(n log n) in the worst case for sorting.
 
+### Two Pointers
+
+| # | Problem | Main Technique | Time |
+|---|---|---|---|
+| 125 | [Valid Palindrome](two-pointers/125-valid-palindrome.py) | Two Pointers | O(n) |
+
 ## Current Focus
 
 - Python
 - Arrays & Hashing
+- Two Pointers
 - Data Structures
 - Time / Space Complexity
 - LeetCode interview patterns
 
 ## Updates
 
-Solutions are added periodically after understanding and reviewing them, rather than daily for activity. Obsidian remains the main study-log and knowledge-management system.
+Solutions and the problem index are updated when a new completed-problem study note is submitted. This repository contains clean code and lightweight progress tracking only. Obsidian remains the main study-log and knowledge-management system.
