@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-8 completed problems.
+9 completed problems.
 
 ## Topics
 
@@ -30,11 +30,18 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 |---|---|---|---|
 | 125 | [Valid Palindrome](two-pointers/125-valid-palindrome.py) | Two Pointers | O(n) |
 
+### Stack
+
+| # | Problem | Main Technique | Time |
+|---|---|---|---|
+| 20 | [Valid Parentheses](stack/020-valid-parentheses.py) | Stack + HashMap | O(n) |
+
 ## Current Focus
 
 - Python
 - Arrays & Hashing
 - Two Pointers
+- Stack
 - Data Structures
 - Time / Space Complexity
 - LeetCode interview patterns
