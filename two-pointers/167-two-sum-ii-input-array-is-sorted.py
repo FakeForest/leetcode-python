@@ -1,0 +1,19 @@
+# LeetCode 167 - Two Sum II: Input Array Is Sorted
+# Time: O(n)
+# Space: O(1)
+
+
+class Solution:
+    def twoSum(self, numbers: list[int], target: int) -> list[int]:
+        left, right = 0, len(numbers) - 1
+
+        while left < right:
+            current = numbers[left] + numbers[right]
+            if current == target:
+                return [left + 1, right + 1]
+            if current < target:
+                left += 1
+            else:
+                right -= 1
+
+        return []
