@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-11 completed problems.
+12 completed problems.
 
 ## Topics
 
@@ -37,6 +37,7 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 | 20 | [Valid Parentheses](stack/020-valid-parentheses.py) | Stack + HashMap | O(n) |
 | 150 | [Evaluate Reverse Polish Notation](stack/150-evaluate-reverse-polish-notation.py) | Stack | O(n) |
 | 155 | [Min Stack](stack/155-min-stack.py) | Two Stacks | O(1) per operation |
+| 739 | [Daily Temperatures](stack/739-daily-temperatures.py) | Monotonic Stack | O(n) |
 
 ## Current Focus
 
