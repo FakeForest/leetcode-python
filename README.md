@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-13 completed problems.
+14 completed problems.
 
 ## Topics
 
@@ -40,12 +40,19 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 | 155 | [Min Stack](stack/155-min-stack.py) | Two Stacks | O(1) per operation |
 | 739 | [Daily Temperatures](stack/739-daily-temperatures.py) | Monotonic Stack | O(n) |
 
+### Binary Search
+
+| # | Problem | Main Technique | Time |
+|---|---|---|---|
+| 153 | [Find Minimum in Rotated Sorted Array](binary-search/153-find-minimum-in-rotated-sorted-array.py) | Binary Search | O(log n) |
+
 ## Current Focus
 
 - Python
 - Arrays & Hashing
 - Two Pointers
 - Stack
+- Binary Search
 - Data Structures
 - Time / Space Complexity
 - LeetCode interview patterns
