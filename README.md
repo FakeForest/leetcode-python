@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-15 completed problems.
+16 completed problems.
 
 ## Topics
 
@@ -28,6 +28,7 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 
 | # | Problem | Main Technique | Time |
 |---|---|---|---|
+| 11 | [Container With Most Water](two-pointers/011-container-with-most-water.py) | Two Pointers | O(n) |
 | 15 | [3Sum](two-pointers/015-3sum.py) | Sorting + Two Pointers | O(n^2) |
 | 125 | [Valid Palindrome](two-pointers/125-valid-palindrome.py) | Two Pointers | O(n) |
 | 167 | [Two Sum II](two-pointers/167-two-sum-ii-input-array-is-sorted.py) | Two Pointers | O(n) |
