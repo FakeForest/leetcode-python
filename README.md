@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-17 completed problems.
+18 completed problems.
 
 ## Topics
 
@@ -34,6 +34,12 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 | 125 | [Valid Palindrome](two-pointers/125-valid-palindrome.py) | Two Pointers | O(n) |
 | 167 | [Two Sum II](two-pointers/167-two-sum-ii-input-array-is-sorted.py) | Two Pointers | O(n) |
 
+### Sliding Window
+
+| # | Problem | Main Technique | Time |
+|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](sliding-window/003-longest-substring-without-repeating-characters.py) | Sliding Window + HashSet | O(n) average |
+
 ### Stack
 
 | # | Problem | Main Technique | Time |
@@ -54,6 +60,7 @@ Here, n is the input length (or number of strings for Group Anagrams), m is the 
 - Python
 - Arrays & Hashing
 - Two Pointers
+- Sliding Window
 - Stack
 - Binary Search
 - Data Structures
