@@ -6,7 +6,7 @@ The goal of this repository is to track my algorithm practice and maintain clean
 
 Detailed study notes, explanations, mistakes, and review logs are maintained separately in Obsidian.
 
-16 completed problems.
+17 completed problems.
 
 ## Topics
 
@@ -16,6 +16,7 @@ Detailed study notes, explanations, mistakes, and review logs are maintained sep
 |---|---|---|---|
 | 1 | [Two Sum](arrays-hashing/001-two-sum.py) | HashMap | O(n) |
 | 49 | [Group Anagrams](arrays-hashing/049-group-anagrams.py) | HashMap + Sorting | O(n * m log m) |
+| 121 | [Best Time to Buy and Sell Stock](arrays-hashing/121-best-time-to-buy-and-sell-stock.py) | One Pass + Running Minimum | O(n) |
 | 128 | [Longest Consecutive Sequence](arrays-hashing/128-longest-consecutive-sequence.py) | HashSet | O(n) |
 | 217 | [Contains Duplicate](arrays-hashing/217-contains-duplicate.py) | HashSet | O(n) |
 | 238 | [Product of Array Except Self](arrays-hashing/238-product-of-array-except-self.py) | Prefix / Suffix | O(n) |
